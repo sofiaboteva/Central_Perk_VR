@@ -18,6 +18,9 @@ Le nombre des modèles gltf open source est bien restreint, donc c'était souven
 
 C'est là où d'autres modèles en 3D de "Central Perk" m'étaient utiles. Beaucoup d'eux sont composés des objets qui, si pris séparément, sont bien distincts de leurs prototypes. Mais placés ensemble, ils parviennent à recréer le "look&feel général" de la scène originelle. 
 
+![centralperk](centralperk.jpeg)
+![centralperk](centralperk3d.png)
+
 ## Blender
 
 Comme c'était ma première expérience de l'utilisation de Blender, je ne pouvais pas créer des objets complexes, mais j'ai appris à compléter certaines taches de base sur Blender, plus précisément:
