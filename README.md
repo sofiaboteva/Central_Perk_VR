@@ -20,6 +20,7 @@ C'est là où d'autres modèles en 3D de "Central Perk" m'étaient utiles. Beauc
 
 ![centralperk](centralperk.jpeg)
 ![centralperk](centralperk3d.png)
+![centralperk](centralperk3d2.png)
 
 ## Blender
 
@@ -36,3 +37,5 @@ La partie finale du projet consistait à organiser les modèles au sein d'une sc
 - mise à l'échelle et positionnement des objets
 - travail avec les textures (le mur de briques)
 - travail avec la caméra et la lumière 
+
+![centralperk](projet.png)
