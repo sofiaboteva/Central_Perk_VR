@@ -38,4 +38,4 @@ La partie finale du projet consistait à organiser les modèles au sein d'une sc
 - travail avec les textures (le mur de briques)
 - travail avec la caméra et la lumière 
 
-![centralperk](projet.png)
+![centralperk](projet.jpg)
