@@ -10,7 +10,7 @@ Le but de ce projet était de reconstruire en réalité virtuelle "Central Perk"
 
 Pour imaginer la scène en réalité virtuelle, je me suis inspirée aussi bien des plans du café de la série, que d'autres modèles de "Central Perk" en 3D que j'ai trouvés sur Internet.
 
-![centralperk](centralperk.jpeg)
+![centralperk](refs/centralperk.jpeg)
 ![centralperk](centralperk3d.png)
 ![centralperk](centralperk3d2.png)
 
