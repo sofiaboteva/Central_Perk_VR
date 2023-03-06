@@ -11,8 +11,8 @@ Le but de ce projet était de reconstruire en réalité virtuelle "Central Perk"
 Pour imaginer la scène en réalité virtuelle, je me suis inspirée aussi bien des plans du café de la série, que d'autres modèles de "Central Perk" en 3D que j'ai trouvés sur Internet.
 
 ![centralperk](refs/centralperk.jpeg)
-![centralperk](centralperk3d.png)
-![centralperk](centralperk3d2.png)
+![centralperk](refs/centralperk3d.png)
+![centralperk](refs/centralperk3d2.png)
 
 ## Modèles gltf
 
@@ -20,7 +20,7 @@ La première étape consistait à trouver des modèles gltf représentant les me
 
 C'est là où d'autres modèles en 3D de "Central Perk" m'étaient utiles. Beaucoup d'eux sont composés des objets qui, pris séparément, sont bien distincts de leurs prototypes. Mais ensemble ils parviennent à recréer le "look&feel général" de la scène originelle.
 
-# Les sources des modèles gltf:
+### Les sources des modèles gltf:
 
 - Le bar https://sketchfab.com/3d-models/wooden-bar-f4f9231e73d64e3683d6ff19993d8fad
 - Le canapé https://sketchfab.com/3d-models/scott-3-seater-sofa-burnt-orange-cotton-velvet-b3ac8e20f12e4c8fa3f7ded38aeb901c
@@ -42,14 +42,14 @@ C'est là où d'autres modèles en 3D de "Central Perk" m'étaient utiles. Beauc
 - Tasse marron https://sketchfab.com/3d-models/cup-of-cappuccino-04f2c34a3df94e58be97c2830e7e462a
 - Plateau de muffins https://sketchfab.com/3d-models/muffins-a027d9df992d4fc38a08ae858f547cda
 
-# Sources des images 2D (décor): 
+### Sources des images 2D (décor): 
 - New York https://images.app.goo.gl/JKRjyR1Jzyi7h7E69
 - Central Perk https://images.app.goo.gl/g54Vhbxgfdrb6xf28
 - Friends https://images.app.goo.gl/yucwQXyXJHLW1pTy9
 - Cappucino poster https://images.app.goo.gl/Tycxcidfx16aCNqf7
 - Friends 2 https://images.app.goo.gl/PYUcoiZS8ZcsYaBY8
 
-# Sources des textures: 
+### Sources des textures: 
 - Carreau https://www.textures.com/download/PBR0199/133238
 - Brique https://www.textures.com/download/3DScans0739/140277
 - Papier peint https://www.textures.com/download/WallpaperForties0077/19091
